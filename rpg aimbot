@@ -137,7 +137,7 @@ local WallCheckEnabled = true
 local ProtectedPlayers = {}
 local PlayerButtons = {}
 local AIM_SMOOTHNESS = 1.0
-local PREDICTION_FACTOR = 0.35   -- <--- PREDICTION AJOUTÉE ICI
+local PREDICTION_FACTOR = 0.30   -- <--- PREDICTION AJOUTÉE ICI
 
 local FOVCircle = Drawing.new("Circle")
 FOVCircle.Radius = FOVRadius
